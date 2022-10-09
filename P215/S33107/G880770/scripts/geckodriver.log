@@ -1,0 +1,487 @@
+1658734168227	geckodriver	INFO	Listening on 127.0.0.1:59029
+1658734171295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile7mFP3Q"
+1658734172131	Marionette	INFO	Marionette enabled
+1658734172138	Marionette	INFO	Listening on port 59037
+1658734172653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile7mFP3Q\\search.json.mozlz4", (void 0)))
+1658734183028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658734240386&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658734240386&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658734240386&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658734240386&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658734394650	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Shutting down due to socket process crash.
+1658919462216	geckodriver	INFO	Listening on 127.0.0.1:59699
+1658919465261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile8ZopjX"
+1658919466335	Marionette	INFO	Marionette enabled
+1658919466346	Marionette	INFO	Listening on port 59709
+1658919467039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile8ZopjX\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658919533651&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658919533651&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658919533651&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658919533651&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658919694739	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1658919907022	Marionette	INFO	Stopped listening on port 59709
+[Parent 12012, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Shutting down due to socket process crash.
+1658919907451	geckodriver	INFO	Listening on 127.0.0.1:63124
+1658919910442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilesm1xBt"
+1658919911112	Marionette	INFO	Marionette enabled
+1658919911117	Marionette	INFO	Listening on port 63133
+1658919911610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilesm1xBt\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658919976732&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658919976732&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658919976732&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658919976732&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658920131969	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1658920260843	geckodriver	INFO	Listening on 127.0.0.1:63398
+1658920263635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile2Ockf5"
+1658920264343	Marionette	INFO	Marionette enabled
+1658920264349	Marionette	INFO	Listening on port 63407
+1658920264805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile2Ockf5\\search.json.mozlz4", (void 0)))
+1658920274699	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658920332916&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658920332916&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658920332916&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658920332916&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658920486957	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1658922063553	geckodriver	INFO	Listening on 127.0.0.1:64467
+1658922066564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileMjpZqL"
+1658922067168	Marionette	INFO	Marionette enabled
+1658922067175	Marionette	INFO	Listening on port 64476
+1658922067668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileMjpZqL\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658922143903&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658922143903&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658922143903&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658922143903&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658922298471	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1658922650783	Marionette	INFO	Stopped listening on port 64476
+[Parent 12448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Shutting down due to socket process crash.
+1658922651265	geckodriver	INFO	Listening on 127.0.0.1:64839
+1658922654288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilepf0eis"
+1658922654945	Marionette	INFO	Marionette enabled
+1658922654951	Marionette	INFO	Listening on port 64849
+1658922655462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilepf0eis\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658922720667&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658922720667&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658922720667&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658922720667&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658922875928	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1658922955786	geckodriver	INFO	Listening on 127.0.0.1:65063
+1658922958793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileAYfSFk"
+1658922959412	Marionette	INFO	Marionette enabled
+1658922959418	Marionette	INFO	Listening on port 65073
+1658922959896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileAYfSFk\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923026190&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923026190&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923026190&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923026190&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658923179043	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1658923326654	Marionette	INFO	Stopped listening on port 65073
+1658923327112	geckodriver	INFO	Listening on 127.0.0.1:50040
+1658923363595	geckodriver	INFO	Listening on 127.0.0.1:50063
+1658923366623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilexJE23a"
+1658923367206	Marionette	INFO	Marionette enabled
+1658923367211	Marionette	INFO	Listening on port 50072
+1658923367912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilexJE23a\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923434901&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923434901&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923434901&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923434901&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658923588600	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923434901&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==& line 129 > injectedScript, line 664: unreachable code after return statement
+1658923726932	geckodriver	INFO	Listening on 127.0.0.1:50310
+1658923729967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilenopSf6"
+1658923730645	Marionette	INFO	Marionette enabled
+1658923730651	Marionette	INFO	Listening on port 50319
+1658923731131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilenopSf6\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923797034&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923797034&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923797034&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923797034&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658923950856	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1658924011712	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658923797034&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==& line 129 > injectedScript, line 664: unreachable code after return statement
+1658924073605	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 943: unreachable code after return statement
+Shutting down due to socket process crash.
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921 line 129 > injectedScript, line 664: unreachable code after return statement
+1658924322033	Marionette	INFO	Stopped listening on port 50319
+1658924322285	geckodriver	INFO	Listening on 127.0.0.1:50690
+1658924325303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileuDmlIR"
+1658924325934	Marionette	INFO	Marionette enabled
+1658924325940	Marionette	INFO	Listening on port 50699
+1658924326458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileuDmlIR\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658924403162&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658924403162&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658924403162&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658924403162&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658924558096	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Shutting down due to socket process crash.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1658928778500	geckodriver	INFO	Listening on 127.0.0.1:50502
+1658928781501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileQuvohm"
+1658928782267	Marionette	INFO	Marionette enabled
+1658928782276	Marionette	INFO	Listening on port 50512
+1658928782769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileQuvohm\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658928849942&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658928849942&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658928849942&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658928849942&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658929004642	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1658929103601	Marionette	INFO	Stopped listening on port 50512
+[Parent 12904, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1658929104132	geckodriver	INFO	Listening on 127.0.0.1:50735
+1658929107179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofiledDUv3h"
+1658929107863	Marionette	INFO	Marionette enabled
+1658929107870	Marionette	INFO	Listening on port 50744
+1658929108346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofiledDUv3h\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658929174795&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658929174795&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658929174795&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658929174795&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658929329819	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1658929457508	Marionette	INFO	Stopped listening on port 50744
+1658929457824	geckodriver	INFO	Listening on 127.0.0.1:51006
+1658929460867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileyuvlMk"
+1658929461496	Marionette	INFO	Marionette enabled
+1658929461502	Marionette	INFO	Listening on port 51016
+1658929462018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileyuvlMk\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658929528010&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658929528010&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658929528010&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658929528010&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658929682985	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1658929752703	Marionette	INFO	Stopped listening on port 51016
+1658929826278	geckodriver	INFO	Listening on 127.0.0.1:51280
+1658929829303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileJHfYBB"
+1658929829889	Marionette	INFO	Marionette enabled
+1658929829896	Marionette	INFO	Listening on port 51290
+1658929830547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileJHfYBB\\search.json.mozlz4", (void 0)))
+1658929840210	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12410"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658929899169&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658929899169&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658929899169&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658929899169&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658930054208	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1658930210635	geckodriver	INFO	Listening on 127.0.0.1:51563
+1658930213644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileLlGIFI"
+1658930214362	Marionette	INFO	Marionette enabled
+1658930214368	Marionette	INFO	Listening on port 51572
+1658930214852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileLlGIFI\\search.json.mozlz4", (void 0)))
+1658930225289	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12410"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658930282894&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658930282894&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658930282894&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658930282894&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658930438089	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658930282894&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==& line 129 > injectedScript, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 943: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921 line 129 > injectedScript, line 664: unreachable code after return statement
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocsbx25.dev.tibco.com:8080"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocsbx25.dev.tibco.com:8080/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript error: http://na1devfocsbx25.dev.tibco.com:8080/ibi_apps/ibxtools/wfshell/wfshellgnh/wfshell_gnh_main.js, line 89: TypeError: $(...).wfShellAbout is not a function
+JavaScript error: http://na1devfocsbx25.dev.tibco.com:8080/ibi_apps/ibxtools/wfshell/wfshellgnh/wfshell_gnh_main.js, line 89: TypeError: $(...).wfShellAbout is not a function
+JavaScript error: http://na1devfocsbx25.dev.tibco.com:8080/ibi_apps/ibxtools/wfshell/wfshellgnh/wfshell_gnh_main.js, line 89: TypeError: $(...).wfShellAbout is not a function
+JavaScript error: http://na1devfocsbx25.dev.tibco.com:8080/ibi_apps/ibxtools/wfshell/wfshellgnh/wfshell_gnh_main.js, line 89: TypeError: $(...).wfShellAbout is not a function
+JavaScript error: http://na1devfocsbx25.dev.tibco.com:8080/ibi_apps/ibxtools/wfshell/wfshellgnh/wfshell_gnh_main.js, line 89: TypeError: $(...).wfShellAbout is not a function
+JavaScript error: http://na1devfocsbx25.dev.tibco.com:8080/ibi_apps/ibxtools/wfshell/wfshellgnh/wfshell_gnh_main.js, line 89: TypeError: $(...).wfShellAbout is not a function
+JavaScript error: http://na1devfocsbx25.dev.tibco.com:8080/ibi_apps/ibxtools/wfshell/wfshellgnh/wfshell_gnh_main.js, line 89: TypeError: $(...).wfShellAbout is not a function
+JavaScript error: http://na1devfocsbx25.dev.tibco.com:8080/ibi_apps/ibxtools/wfshell/wfshellgnh/wfshell_gnh_main.js, line 89: TypeError: $(...).wfShellAbout is not a function
+JavaScript error: https://docs.tibco.com/products/tibco-ibi/js/script.js, line 81: ReferenceError: OO is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+1658991281645	geckodriver	INFO	Listening on 127.0.0.1:50339
+1658991284691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilewrf9cQ"
+1658991285646	Marionette	INFO	Marionette enabled
+1658991285654	Marionette	INFO	Listening on port 50347
+1658991285834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilewrf9cQ\\search.json.mozlz4", (void 0)))
+1658991296134	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12410"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12410/ibi_apps/welcome, line 3048: unreachable code after return statement
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1658991498495	geckodriver	INFO	Listening on 127.0.0.1:50349
+1658991501528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilePKX4dl"
+1658991502229	Marionette	INFO	Marionette enabled
+1658991502235	Marionette	INFO	Listening on port 50357
+1658991502725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilePKX4dl\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658991569132&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658991569132&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658991569132&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658991569132&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658991723765	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1658991833767	Marionette	INFO	Stopped listening on port 50357
+1658991833973	geckodriver	INFO	Listening on 127.0.0.1:50434
+1658991836994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilerJlgtQ"
+1658991837599	Marionette	INFO	Marionette enabled
+1658991837605	Marionette	INFO	Listening on port 50442
+1658991838269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilerJlgtQ\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658991903478&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658991903478&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658991903478&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658991903478&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658992058311	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1658992118781	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658991903478&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==& line 129 > injectedScript, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 943: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921 line 129 > injectedScript, line 664: unreachable code after return statement
+1658992633512	Marionette	INFO	Stopped listening on port 50442
+[Parent 15004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1658992633972	geckodriver	INFO	Listening on 127.0.0.1:50546
+1658992636982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilePX52IM"
+1658992637665	Marionette	INFO	Marionette enabled
+1658992637672	Marionette	INFO	Listening on port 50554
+1658992638157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilePX52IM\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658992715177&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658992715177&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658992715177&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1658992715177&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1658992874149	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1658993068924	Marionette	INFO	Stopped listening on port 50554
+1659008068616	geckodriver	INFO	Listening on 127.0.0.1:53808
+1659008071665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilemX0skB"
+1659008072540	Marionette	INFO	Marionette enabled
+1659008072548	Marionette	INFO	Listening on port 53818
+1659008072966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilemX0skB\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659008150563&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659008150563&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659008150563&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659008150563&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1659008305065	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659008365944	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659008150563&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==& line 129 > injectedScript, line 664: unreachable code after return statement
+1659008428001	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 943: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921 line 129 > injectedScript, line 664: unreachable code after return statement
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 943: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921 line 129 > injectedScript, line 664: unreachable code after return statement
+1659008693361	Marionette	INFO	Stopped listening on port 53818
+1659017083383	geckodriver	INFO	Listening on 127.0.0.1:60359
+1659017086406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile6iYCKh"
+1659017087148	Marionette	INFO	Marionette enabled
+1659017087155	Marionette	INFO	Listening on port 60368
+1659017087652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile6iYCKh\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659017152995&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659017152995&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659017152995&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659017152995&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1659017308484	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1659017408697	Marionette	INFO	Stopped listening on port 60368
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1659017409218	geckodriver	INFO	Listening on 127.0.0.1:60623
+1659017412256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofiled9Ht9T"
+1659017412921	Marionette	INFO	Marionette enabled
+1659017412927	Marionette	INFO	Listening on port 60633
+1659017413405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofiled9Ht9T\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659017478936&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659017478936&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659017478936&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659017478936&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==&, line 943: unreachable code after return statement
+1659017634023	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS:/WFC/Repository/P215_S31921&BIDrand=1659017478936&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJtb2RlIjoiaW50ZXJuYWwifQ==& line 129 > injectedScript, line 664: unreachable code after return statement
+1659017756395	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 664: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 723: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 727: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921, line 943: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2Fc9959726_hold.fex&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921 line 129 > injectedScript, line 664: unreachable code after return statement
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement

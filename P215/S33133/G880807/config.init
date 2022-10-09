@@ -1,0 +1,18 @@
+nodeid na1devfocxbx17.dev.tibco.com
+httpport 12620
+wfcontext /ibi_apps
+mriddev autodevuser206
+mrpassdev
+mridbas autobasuser65
+mrpassbas
+mridadv autoadvuser61
+mrpassadv
+mridadm admin
+mrpassadm admin
+mridgadm autogadmuser02
+mrpassgadm
+browser chrome
+workspace_folder P215_S33133/G880807
+project_id P215
+suite_id S33133
+group_id G880807

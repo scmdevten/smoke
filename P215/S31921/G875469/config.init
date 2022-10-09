@@ -1,0 +1,10 @@
+nodeid unxrh7.ibi.com
+httpport 12500
+wfcontext /ibi_apps
+mrid autodevuser206
+mrpass
+browser chrome
+workspace_folder P215_S31921/G875470
+project_id P215
+suite_id S31921
+group_id G875470

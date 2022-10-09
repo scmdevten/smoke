@@ -1,0 +1,138 @@
+1660218670742	geckodriver	INFO	Listening on 127.0.0.1:50653
+1660218673762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileHohTpp"
+1660218674395	Marionette	INFO	Marionette enabled
+1660218674401	Marionette	INFO	Listening on port 50665
+Read port: 50665
+1660218674803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileHohTpp\\search.json.mozlz4", (void 0)))
+1660218684731	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_noParms.fex&IBI_SQLTRACE=ON, line 693: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_noParms.fex&IBI_SQLTRACE=ON, line 752: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_noParms.fex&IBI_SQLTRACE=ON, line 756: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_noParms.fex&IBI_SQLTRACE=ON, line 972: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_YesParms.fex&IBI_SQLTRACE=ON, line 693: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_YesParms.fex&IBI_SQLTRACE=ON, line 752: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_YesParms.fex&IBI_SQLTRACE=ON, line 756: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_YesParms.fex&IBI_SQLTRACE=ON, line 972: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660218823895	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FRetail_Samples%252FPortal%252FSmall_Widgets%252F&BIP_item=Category_Sales.fex&IBI_SQLTRACE=ON, line 693: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FRetail_Samples%252FPortal%252FSmall_Widgets%252F&BIP_item=Category_Sales.fex&IBI_SQLTRACE=ON, line 752: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FRetail_Samples%252FPortal%252FSmall_Widgets%252F&BIP_item=Category_Sales.fex&IBI_SQLTRACE=ON, line 756: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FRetail_Samples%252FPortal%252FSmall_Widgets%252F&BIP_item=Category_Sales.fex&IBI_SQLTRACE=ON, line 972: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1660220327407	Marionette	INFO	Stopped listening on port 50665
+[Parent 6480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1660220327868	geckodriver	INFO	Listening on 127.0.0.1:54085
+1660220330874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileaTsxNb"
+1660220331607	Marionette	INFO	Marionette enabled
+1660220331613	Marionette	INFO	Listening on port 54097
+Read port: 54097
+1660220331799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileaTsxNb\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_noParms.fex&IBI_SQLTRACE=ON, line 693: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_noParms.fex&IBI_SQLTRACE=ON, line 752: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_noParms.fex&IBI_SQLTRACE=ON, line 756: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_noParms.fex&IBI_SQLTRACE=ON, line 972: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_YesParms.fex&IBI_SQLTRACE=ON, line 693: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_YesParms.fex&IBI_SQLTRACE=ON, line 752: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_YesParms.fex&IBI_SQLTRACE=ON, line 756: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_YesParms.fex&IBI_SQLTRACE=ON, line 972: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660220480347	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FRetail_Samples%252FPortal%252FSmall_Widgets%252F&BIP_item=Category_Sales.fex&IBI_SQLTRACE=ON, line 693: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FRetail_Samples%252FPortal%252FSmall_Widgets%252F&BIP_item=Category_Sales.fex&IBI_SQLTRACE=ON, line 752: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FRetail_Samples%252FPortal%252FSmall_Widgets%252F&BIP_item=Category_Sales.fex&IBI_SQLTRACE=ON, line 756: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FRetail_Samples%252FPortal%252FSmall_Widgets%252F&BIP_item=Category_Sales.fex&IBI_SQLTRACE=ON, line 972: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660220566184	Marionette	INFO	Stopped listening on port 54097
+1660220588636	geckodriver	INFO	Listening on 127.0.0.1:54149
+1660220591668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile7UMH7H"
+1660220592265	Marionette	INFO	Marionette enabled
+1660220592270	Marionette	INFO	Listening on port 54161
+Read port: 54161
+1660220592421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile7UMH7H\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_noParms.fex&IBI_SQLTRACE=ON, line 693: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_noParms.fex&IBI_SQLTRACE=ON, line 752: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_noParms.fex&IBI_SQLTRACE=ON, line 756: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_noParms.fex&IBI_SQLTRACE=ON, line 972: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_YesParms.fex&IBI_SQLTRACE=ON, line 693: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_YesParms.fex&IBI_SQLTRACE=ON, line 752: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_YesParms.fex&IBI_SQLTRACE=ON, line 756: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FP215_S31921%252F&BIP_item=RunWsqlTrc_YesParms.fex&IBI_SQLTRACE=ON, line 972: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660220741271	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FRetail_Samples%252FPortal%252FSmall_Widgets%252F&BIP_item=Category_Sales.fex&IBI_SQLTRACE=ON, line 693: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FRetail_Samples%252FPortal%252FSmall_Widgets%252F&BIP_item=Category_Sales.fex&IBI_SQLTRACE=ON, line 752: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FRetail_Samples%252FPortal%252FSmall_Widgets%252F&BIP_item=Category_Sales.fex&IBI_SQLTRACE=ON, line 756: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:50764/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS%253A%252FWFC%252FRepository%252FRetail_Samples%252FPortal%252FSmall_Widgets%252F&BIP_item=Category_Sales.fex&IBI_SQLTRACE=ON, line 972: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:50764"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660220827024	Marionette	INFO	Stopped listening on port 54161
+1660749276745	geckodriver	INFO	Listening on 127.0.0.1:52843
+1660749279795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileyMRjmC"
+1660749281085	Marionette	INFO	Marionette enabled
+1660749281093	Marionette	INFO	Listening on port 52855
+Read port: 52855
+1660749281319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileyMRjmC\\search.json.mozlz4", (void 0)))
+1660749291891	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/workspaces, line 3048: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1660750503996	Marionette	INFO	Stopped listening on port 52855
+1660750504200	geckodriver	INFO	Listening on 127.0.0.1:50181
+1660750507209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileNykwRi"
+1660750507885	Marionette	INFO	Marionette enabled
+1660750507891	Marionette	INFO	Listening on port 50193
+Read port: 50193
+1660750508263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileNykwRi\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/home, line 3048: unreachable code after return statement
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/workspaces, line 3048: unreachable code after return statement
+1660750846935	Marionette	INFO	Stopped listening on port 50193
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt

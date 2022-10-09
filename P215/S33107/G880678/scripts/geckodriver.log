@@ -1,0 +1,86 @@
+1660119645257	geckodriver	INFO	Listening on 127.0.0.1:55869
+1660119648300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile6Radg6"
+1660119648982	Marionette	INFO	Marionette enabled
+1660119648991	Marionette	INFO	Listening on port 55878
+1660119649503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile6Radg6\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/home, line 3048: unreachable code after return statement
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1660119778471	Marionette	INFO	Stopped listening on port 55878
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[Parent 7724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 7724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660119778764	geckodriver	INFO	Listening on 127.0.0.1:55999
+1660119781797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile3RtXiJ"
+1660119782538	Marionette	INFO	Marionette enabled
+1660119782548	Marionette	INFO	Listening on port 56008
+1660119783132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofile3RtXiJ\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/home, line 3048: unreachable code after return statement
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660120122210	geckodriver	INFO	Listening on 127.0.0.1:56244
+1660120125262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileg0PKb7"
+1660120125963	Marionette	INFO	Marionette enabled
+1660120125968	Marionette	INFO	Listening on port 56253
+1660120126431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofileg0PKb7\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/home, line 3048: unreachable code after return statement
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660122131721	geckodriver	INFO	Listening on 127.0.0.1:57611
+1660122134739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilehEUUnI"
+1660122135374	Marionette	INFO	Marionette enabled
+1660122135381	Marionette	INFO	Listening on port 57620
+1660122136025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilehEUUnI\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/home, line 3048: unreachable code after return statement
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660122168093	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+1660122257905	geckodriver	INFO	Listening on 127.0.0.1:57744
+1660122260934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilesed7bj"
+1660122261582	Marionette	INFO	Marionette enabled
+1660122261589	Marionette	INFO	Listening on port 57756
+1660122262054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVCFOC~1\\AppData\\Local\\Temp\\rust_mozprofilesed7bj\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://na1devfocxbx17.dev.tibco.com:12500/ibi_apps/home, line 3048: unreachable code after return statement
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://na1devfocxbx17.dev.tibco.com:12500"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660122294672	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.

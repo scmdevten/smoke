@@ -1,0 +1,18 @@
+nodeid na1devfocxbx17.dev.tibco.com
+httpport 50764
+wfcontext /ibi_apps
+mriddev autodevuser206
+mrpassdev
+mridbas autobasuser65
+mrpassbas
+mridadv autoadvuser61
+mrpassadv
+mridadm autoadmuser01
+mrpassadm
+mridgadm autogadmuser02
+mrpassgadm
+browser firefox
+workspace_folder P215_S31921/G875470
+project_id P215
+suite_id S31921
+group_id G875470
